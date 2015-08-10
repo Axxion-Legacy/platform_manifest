@@ -452,7 +452,7 @@
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" />
   <project path="packages/services/Mms" name="SlimRoms/packages_services_Mms" remote="github" revision="lp5.1" />
   <project path="packages/services/Telecomm" name="SlimRoms/packages_services_Telecomm" remote="github" revision="lp5.1" />
-  <project path="packages/services/Telephony" name="SlimRoms/packages_services_Telephony" remote="github" revision="lp5.1" />
+  <project path="packages/services/Telephony" name="Axxion-Legacy/packages_services_Telephony" remote="github" revision="pop" />
   <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" />
   <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" name="platform/packages/wallpapers/HoloSpiral" />
@@ -523,7 +523,7 @@
   <project path="platform_manifest" name="SlimRoms/platform_manifest" remote="github" revision="lp5.1" />
 
   <!-- New Additions for slim -->
-  <project path="vendor/slim" name="SlimRoms/vendor_slim" remote="github" revision="lp5.1" />
+  <project path="vendor/slim" name="Axxion-Legacy/vendor_slim" remote="github" revision="pop" />
 
   <!-- Slim file manager -->
   <project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" remote="github" revision="lp5.1" />
